@@ -1,0 +1,16 @@
+#include <stdio.h>
+
+int main(void) {
+    int x,y,t;
+    scanf("%d",&t);
+    for(int i=0;i<t;i++){
+        scanf("%d %d",&x,&y);
+        int T;
+        T=10*x+90*y;
+        printf("%d\n",T);
+    }
+}
+	// your code goes here
+
+
+
