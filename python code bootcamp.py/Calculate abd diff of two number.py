@@ -1,5 +1,5 @@
-num1 = float(input("Enter the first number: "))
-num2 = float(input("Enter the second number: "))
+num1 = int(input("Enter the first number: "))
+num2 = int(input("Enter the second number: "))
 
 sum_of_numbers = num1 + num2
 difference_of_numbers = num1 - num2
